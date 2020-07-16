@@ -35,7 +35,7 @@ done
 
 #### Q3. To run a copy command in a subshell, which syntax would you use?
 
-- ( command )
+- ( command ) <==== I guess it's the correct!
 - sh command
 - { command }
 - (( command ))
@@ -276,7 +276,7 @@ esac
 #### Q28. Which variable would you check to verify that the last command executed successfully?
 
 - `$$`
-- `$?`
+- `$?` <==== I guess it's the correct!
 - `$!`
 - `$@`
 
